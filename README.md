@@ -1,4 +1,4 @@
-# Leetcode-JAVA_Implementation
+# Leetcode/GFG/HackerRank-JAVA_Implementation
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
