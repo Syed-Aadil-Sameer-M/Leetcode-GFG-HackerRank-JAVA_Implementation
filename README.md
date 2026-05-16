@@ -9,6 +9,7 @@
 | [0009-palindrome-number](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0069-sqrtx) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Hash Table
 |  |
@@ -95,4 +96,8 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0045-jump-game-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
