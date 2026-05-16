@@ -25,6 +25,7 @@
 | [0013-roman-to-integer](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0076-minimum-window-substring) |
+| [0796-rotate-string](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0796-rotate-string) |
 | [1143-longest-common-subsequence](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
 |  |
@@ -84,4 +85,8 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1143-longest-common-subsequence](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/1143-longest-common-subsequence) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
