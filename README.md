@@ -1,5 +1,56 @@
 # Leetcode/GFG/HackerRank-JAVA_Implementation
 <!---LeetCode Topics Start-->
+
+Welcome to my repository! Here, you'll find solutions to various algorithmic problems I've solved on platforms like LeetCode, GeeksforGeeks (GFG), and HackerRank. This collection not only showcases my coding skills but also serves as a resource for anyone looking to understand different problem-solving techniques.
+
+## Total Problems Solved
+
+<div style="text-align: center;">
+    <h2>Infographic</h2>
+    <p style="font-size: 20px;">Total Problems Solved: <strong>50</strong></p>
+    <svg width="300" height="200">
+        <rect width="300" height="200" fill="#f0f0f0" />
+        <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="30" fill="#333">50</text>
+    </svg>
+</div>
+
+## Problem Categories
+
+Here's a breakdown of the problems I've solved by category:
+
+<div style="text-align: center;">
+    <h2>Problem Types Chart</h2>
+    <svg width="400" height="300">
+        <rect x="50" y="50" width="300" height="200" fill="#e0e0e0" />
+        <line x1="50" y1="250" x2="350" y2="250" stroke="#333" stroke-width="2"/>
+        <line x1="50" y1="50" x2="50" y2="250" stroke="#333" stroke-width="2"/>
+        <text x="100" y="270" fill="#333">Math</text>
+        <text x="250" y="270" fill="#333">String</text>
+        <text x="100" y="100" fill="#333">Dynamic Programming</text>
+        <text x="250" y="150" fill="#333">Graphs</text>
+        <text x="250" y="200" fill="#333">Sorting</text>
+    </svg>
+</div>
+
+## Problem Links
+
+### Math
+| Problem | Link |
+| ------- | ---- |
+| [0002 - Add Two Numbers](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0002-add-two-numbers) | 
+| [0007 - Reverse Integer](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0007-reverse-integer) | 
+| [0009 - Palindrome Number](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0009-palindrome-number) | 
+| [0012 - Integer to Roman](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0012-integer-to-roman) | 
+| [0013 - Roman to Integer](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0013-roman-to-integer) | 
+| [0069 - Sqrt(x)](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0069-sqrtx) | 
+| [2946 - Matrix Similarity After Cyclic Shifts](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/2946-matrix-similarity-after-cyclic-shifts) | 
+
+<!-- Add more categories and problems as needed -->
+
+---
+
+Feel free to explore the links and dive into the solutions!
+
 # LeetCode Topics
 ## Math
 |  |
