@@ -203,3 +203,15 @@ Ready to solve more problems? Pick any category above and start coding! Each sol
 ![Updated Badge](https://img.shields.io/badge/Last%20Updated-2025-blue?style=flat-square)
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [1518-water-bottles](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/1518-water-bottles) |
+## Simulation
+|  |
+| ------- |
+| [1518-water-bottles](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/1518-water-bottles) |
+<!---LeetCode Topics End-->
