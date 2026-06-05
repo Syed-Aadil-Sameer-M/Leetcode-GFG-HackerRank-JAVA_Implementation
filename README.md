@@ -163,3 +163,19 @@ All problems are organized by algorithm/data structure:
 ![Problems Badge](https://img.shields.io/badge/Problems%20Solved-73+-brightgreen?style=flat-square)
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0392-is-subsequence) |
+## String
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0392-is-subsequence) |
+<!---LeetCode Topics End-->
