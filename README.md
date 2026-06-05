@@ -214,4 +214,8 @@ Ready to solve more problems? Pick any category above and start coding! Each sol
 |  |
 | ------- |
 | [1518-water-bottles](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/1518-water-bottles) |
+## Array
+|  |
+| ------- |
+| [0941-valid-mountain-array](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0941-valid-mountain-array) |
 <!---LeetCode Topics End-->
