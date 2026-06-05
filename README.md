@@ -22,11 +22,11 @@
 ╔════════════════════════════════════════════════════════════╗
 ║                    SOLVED PROBLEMS                         ║
 ║                                                            ║
-║                   📈 30+ PROBLEMS                          ║
+║                   📈 73+ PROBLEMS                          ║
 ║                                                            ║
-║   ✅ Easy      ████░░░░░░ (8)                             ║
-║   🟡 Medium    █████░░░░░ (15)                            ║
-║   🔴 Hard      ███░░░░░░░ (7)                             ║
+║   ✅ Easy      ████████████████░░░░░░░░░░░░░░░░░░░░░░ (27) ║
+║   🟡 Medium    ███████████████████████░░░░░░░░░░░░░░░░ (30) ║
+║   🔴 Hard      ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ (16) ║
 ║                                                            ║
 ╚════════════════════════════════════════════════════════════╝
 ```
@@ -35,20 +35,15 @@
 
 ---
 
-## 🏆 Problem Categories
+## 📈 Platform Breakdown
 
 <div align="center">
 
-| Category | Count | Progress | Difficulty |
-|----------|-------|----------|------------|
-| 🔢 **Array** | 12 | ████████░░ | Medium |
-| 📝 **String** | 8 | ██████░░░░ | Medium |
-| 🔗 **Linked List** | 2 | ████░░░░░░ | Medium |
-| 📚 **Dynamic Programming** | 3 | ███░░░░░░░ | Hard |
-| 📊 **Hash Table** | 5 | █████░░░░░ | Easy |
-| 🔍 **Binary Search** | 3 | ███░░░░░░░ | Medium |
-| 🌳 **Tree** | 0 | ░░░░░░░░░░ | - |
-| 📈 **Graph** | 0 | ░░░░░░░░░░ | - |
+| Platform | Count | Easy | Medium | Hard |
+|----------|-------|------|--------|------|
+| 💻 **LeetCode** | 43 | 15 | 20 | 8 |
+| 🎓 **GeeksforGeeks** | 23 | 10 | 8 | 5 |
+| ⚡ **HackerRank** | 7 | 2 | 2 | 3 |
 
 </div>
 
@@ -62,82 +57,15 @@
 DIFFICULTY DISTRIBUTION
 ═══════════════════════════════════════════
 
-🟢 Easy (27%)
-████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 8
+🟢 Easy (37%)
+████████████████░░░░░░░░░░░░░░░░░░░░░░ 27
 
-🟡 Medium (50%)
-██████████████░░░░░░░░░░░░░░░░░░░░░░ 15
+🟡 Medium (41%)
+███████████████████░░░░░░░░░░░░░░░░░░░░ 30
 
-🔴 Hard (23%)
-██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 7
+🔴 Hard (22%)
+██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 16
 ```
-
-</div>
-
----
-
-## 📋 Solution Catalog
-
-### 🔢 Array Problems
-
-| # | Problem | Difficulty | Topics | Solution |
-|---|---------|-----------|--------|----------|
-| 11 | Container With Most Water | <span style="color: #FFA500">🟡 Medium</span> | Two Pointers, Greedy | [Link](https://github.com/Syed-Aadil-Sameer-M/Leetcode-GFG-HackerRank-JAVA_Implementation/tree/master/0011-container-with-most-water) |
-| 15 | 3Sum | <span style="color: #FFA500">🟡 Medium</span> | Two Pointers, Sorting | [Link](https://github.com/Syed-Aadil-Sameer-M/Leetcode-GFG-HackerRank-JAVA_Implementation/tree/master/0015-3sum) |
-| 33 | Search in Rotated Sorted Array | <span style="color: #FFA500">🟡 Medium</span> | Binary Search, Array | [Link](https://github.com/Syed-Aadil-Sameer-M/Leetcode-GFG-HackerRank-JAVA_Implementation/tree/master/0033-search-in-rotated-sorted-array) |
-| 39 | Combination Sum | <span style="color: #FFA500">🟡 Medium</span> | Backtracking, Array | [Link](https://github.com/Syed-Aadil-Sameer-M/Leetcode-GFG-HackerRank-JAVA_Implementation/tree/master/0039-combination-sum) |
-| 45 | Jump Game II | <span style="color: #FFA500">🟡 Medium</span> | DP, Greedy | [Link](https://github.com/Syed-Aadil-Sameer-M/Leetcode-GFG-HackerRank-JAVA_Implementation/tree/master/0045-jump-game-ii) |
-| 54 | Spiral Matrix | <span style="color: #FFA500">🟡 Medium</span> | Simulation, Matrix | [Link](https://github.com/Syed-Aadil-Sameer-M/Leetcode-GFG-HackerRank-JAVA_Implementation/tree/master/0054-spiral-matrix) |
-| 75 | Sort Colors | <span style="color: #FFA500">🟡 Medium</span> | Two Pointers, Sorting | [Link](https://github.com/Syed-Aadil-Sameer-M/Leetcode-GFG-HackerRank-JAVA_Implementation/tree/master/0075-sort-colors) |
-| 88 | Merge Sorted Array | <span style="color: #90EE90">🟢 Easy</span> | Two Pointers, Array | [Link](https://github.com/Syed-Aadil-Sameer-M/Leetcode-GFG-HackerRank-JAVA_Implementation/tree/master/0088-merge-sorted-array) |
-| 121 | Best Time to Buy and Sell Stock | <span style="color: #FFA500">🟡 Medium</span> | DP, Array | [Link](https://github.com/Syed-Aadil-Sameer-M/Leetcode-GFG-HackerRank-JAVA_Implementation/tree/master/0121-best-time-to-buy-and-sell-stock) |
-| 153 | Find Minimum in Rotated Sorted Array | <span style="color: #FFA500">🟡 Medium</span> | Binary Search | [Link](https://github.com/Syed-Aadil-Sameer-M/Leetcode-GFG-HackerRank-JAVA_Implementation/tree/master/0153-find-minimum-in-rotated-sorted-array) |
-| 2946 | Matrix Similarity After Cyclic Shifts | <span style="color: #90EE90">🟢 Easy</span> | Matrix, Simulation | [Link](https://github.com/Syed-Aadil-Sameer-M/Leetcode-GFG-HackerRank-JAVA_Implementation/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
-| 3653 | XOR After Range Multiplication Queries I | <span style="color: #90EE90">🟢 Easy</span> | Math, Simulation | [Link](https://github.com/Syed-Aadil-Sameer-M/Leetcode-GFG-HackerRank-JAVA_Implementation/tree/master/3653-xor-after-range-multiplication-queries-i) |
-
-### 📝 String Problems
-
-| # | Problem | Difficulty | Topics | Solution |
-|---|---------|-----------|--------|----------|
-| 3 | Longest Substring Without Repeating Characters | <span style="color: #FFA500">🟡 Medium</span> | Sliding Window, Hash Table | [Link](https://github.com/Syed-Aadil-Sameer-M/Leetcode-GFG-HackerRank-JAVA_Implementation/tree/master/0003-longest-substring-without-repeating-characters) |
-| 12 | Integer to Roman | <span style="color: #FFA500">🟡 Medium</span> | Math, String | [Link](https://github.com/Syed-Aadil-Sameer-M/Leetcode-GFG-HackerRank-JAVA_Implementation/tree/master/0012-integer-to-roman) |
-| 13 | Roman to Integer | <span style="color: #90EE90">🟢 Easy</span> | Math, String | [Link](https://github.com/Syed-Aadil-Sameer-M/Leetcode-GFG-HackerRank-JAVA_Implementation/tree/master/0013-roman-to-integer) |
-| 20 | Valid Parentheses | <span style="color: #90EE90">🟢 Easy</span> | Stack, String | [Link](https://github.com/Syed-Aadil-Sameer-M/Leetcode-GFG-HackerRank-JAVA_Implementation/tree/master/0020-valid-parentheses) |
-| 76 | Minimum Window Substring | <span style="color: #FF6347">🔴 Hard</span> | Sliding Window, Hash Table | [Link](https://github.com/Syed-Aadil-Sameer-M/Leetcode-GFG-HackerRank-JAVA_Implementation/tree/master/0076-minimum-window-substring) |
-| 767 | Reorganize String | <span style="color: #FFA500">🟡 Medium</span> | Heap, Greedy | [Link](https://github.com/Syed-Aadil-Sameer-M/Leetcode-GFG-HackerRank-JAVA_Implementation/tree/master/0767-reorganize-string) |
-| 796 | Rotate String | <span style="color: #90EE90">🟢 Easy</span> | String Matching | [Link](https://github.com/Syed-Aadil-Sameer-M/Leetcode-GFG-HackerRank-JAVA_Implementation/tree/master/0796-rotate-string) |
-| 1143 | Longest Common Subsequence | <span style="color: #FFA500">🟡 Medium</span> | DP, String | [Link](https://github.com/Syed-Aadil-Sameer-M/Leetcode-GFG-HackerRank-JAVA_Implementation/tree/master/1143-longest-common-subsequence) |
-
-### 🔢 Math Problems
-
-| # | Problem | Difficulty | Topics | Solution |
-|---|---------|-----------|--------|----------|
-| 2 | Add Two Numbers | <span style="color: #FFA500">🟡 Medium</span> | Linked List, Math | [Link](https://github.com/Syed-Aadil-Sameer-M/Leetcode-GFG-HackerRank-JAVA_Implementation/tree/master/0002-add-two-numbers) |
-| 7 | Reverse Integer | <span style="color: #FFA500">🟡 Medium</span> | Math | [Link](https://github.com/Syed-Aadil-Sameer-M/Leetcode-GFG-HackerRank-JAVA_Implementation/tree/master/0007-reverse-integer) |
-| 9 | Palindrome Number | <span style="color: #90EE90">🟢 Easy</span> | Math | [Link](https://github.com/Syed-Aadil-Sameer-M/Leetcode-GFG-HackerRank-JAVA_Implementation/tree/master/0009-palindrome-number) |
-| 69 | Sqrt(x) | <span style="color: #90EE90">🟢 Easy</span> | Binary Search, Math | [Link](https://github.com/Syed-Aadil-Sameer-M/Leetcode-GFG-HackerRank-JAVA_Implementation/tree/master/0069-sqrtx) |
-
-### 🔗 Linked List Problems
-
-| # | Problem | Difficulty | Topics | Solution |
-|---|---------|-----------|--------|----------|
-| 2 | Add Two Numbers | <span style="color: #FFA500">🟡 Medium</span> | Linked List, Recursion | [Link](https://github.com/Syed-Aadil-Sameer-M/Leetcode-GFG-HackerRank-JAVA_Implementation/tree/master/0002-add-two-numbers) |
-
-### 📚 Dynamic Programming Problems
-
-| # | Problem | Difficulty | Topics | Solution |
-|---|---------|-----------|--------|----------|
-| 45 | Jump Game II | <span style="color: #FFA500">🟡 Medium</span> | DP, Greedy | [Link](https://github.com/Syed-Aadil-Sameer-M/Leetcode-GFG-HackerRank-JAVA_Implementation/tree/master/0045-jump-game-ii) |
-| 121 | Best Time to Buy and Sell Stock | <span style="color: #FFA500">🟡 Medium</span> | DP | [Link](https://github.com/Syed-Aadil-Sameer-M/Leetcode-GFG-HackerRank-JAVA_Implementation/tree/master/0121-best-time-to-buy-and-sell-stock) |
-| 1143 | Longest Common Subsequence | <span style="color: #FFA500">🟡 Medium</span> | DP | [Link](https://github.com/Syed-Aadil-Sameer-M/Leetcode-GFG-HackerRank-JAVA_Implementation/tree/master/1143-longest-common-subsequence) |
-
----
-
-## 🏅 Topic Tags
-
-<div align="center">
-
-`Array` • `String` • `Linked List` • `Stack` • `Hash Table` • `Queue` • `Tree` • `Graph` • `Sorting` • `Binary Search` • `Two Pointers` • `Sliding Window` • `Dynamic Programming` • `Backtracking` • `Greedy` • `Math` • `Recursion` • `Bit Manipulation`
 
 </div>
 
@@ -145,50 +73,81 @@ DIFFICULTY DISTRIBUTION
 
 ## 💡 Key Features
 
-- 🎯 **Organized Solutions**: Problems categorized by topic and difficulty
-- 📊 **Real-time Statistics**: Automatically updates as you add more solutions
-- 🔍 **Easy Navigation**: Quick access to all solutions organized by platforms
-- 📈 **Progress Tracking**: Visual indicators of your DSA learning journey
-- 🏆 **Multi-platform**: Solutions from LeetCode, GeeksforGeeks, and HackerRank
+- ✨ **73+ Problems Solved**: Comprehensive collection of DSA problems
+- 📊 **Real-time Statistics**: Automatically updates with new solutions
+- 🔍 **Easy Navigation**: Problems organized by platform, difficulty, and category
+- 📈 **Progress Tracking**: Visual progress indicators and statistics
+- 🏆 **Multi-platform**: Solutions from LeetCode (43), GeeksforGeeks (23), and HackerRank (7)
+- 💻 **100% Java**: All solutions implemented in Java
 
 ---
 
 ## 🚀 How to Use
 
-1. **Browse by Category**: Check the tables above to find problems by topic
+1. **Browse by Category**: Check the tables below to find problems by data structure/algorithm
 2. **Filter by Difficulty**: Easy 🟢, Medium 🟡, Hard 🔴
-3. **View Solutions**: Click on any problem link to see the implementation
-4. **Track Progress**: Monitor your statistics at the top of this README
+3. **Filter by Platform**: LeetCode 💻, GeeksforGeeks 🎓, HackerRank ⚡
+4. **View Solutions**: Click on any problem link to see the implementation
 
 ---
 
-## 📈 Statistics Update Guide
+## 🔄 Update This README Dynamically
 
-To keep your statistics current as you add new problems:
+### ✅ The README automatically updates when new problems are added!
 
-### Adding a New Problem:
-1. Create a folder with format: `0XXX-problem-name`
-2. Add your solution file and README
-3. Update the tables above with problem details
-4. The badges automatically reflect your latest activity
+#### Method 1: Using npm script (Recommended)
+```bash
+npm run update-readme
+```
+
+#### Method 2: Running the script directly
+```bash
+node updateReadme.js
+```
+
+#### Method 3: Complete workflow
+```bash
+# After LeetHub pushes new problems:
+node updateReadme.js
+git add README.md
+git commit -m "📝 Update README with latest problems"
+git push
+```
+
+### 📌 Integration with LeetHub
+
+The script automatically:
+- ✅ Scans for new problem folders (XXXX-problem-name format)
+- ✅ Detects difficulty levels and topics
+- ✅ Updates statistics and progress bars
+- ✅ Categorizes problems by data structure/algorithm
+- ✅ Includes links to all solutions
+
+---
+
+## 📚 Problem Categories
+
+All problems are organized by algorithm/data structure:
+
+- 🔢 **Array** - 2D arrays, matrix manipulation, sliding window
+- 📝 **String** - Pattern matching, manipulation, regex
+- 📊 **Hash Table** - Hashing, frequency counting, lookups
+- 📚 **Dynamic Programming** - Memoization, tabulation, optimization
+- 🔍 **Binary Search** - Searching, finding bounds, rotated arrays
+- 👉 **Two Pointers** - Fast/slow pointers, partitioning
+- 📦 **Stack** - LIFO, monotonic stacks, parentheses
+- ⛩️ **Heap** - Priority queue, top K elements
+- 🔀 **Sorting** - Merge sort, quicksort, custom sorting
+- 🗂️ **Matrix** - 2D traversal, rotations, transformations
+- 🔢 **Math** - Number theory, bitwise operations
 
 ---
 
 ## 🎓 Learning Resources
 
-- **LeetCode**: [Visit](https://leetcode.com) - Premium coding challenges
+- **LeetCode**: [Visit](https://leetcode.com) - Coding interview prep
 - **GeeksforGeeks**: [Visit](https://www.geeksforgeeks.org) - DSA tutorials
-- **HackerRank**: [Visit](https://www.hackerrank.com) - Coding competitions
-
----
-
-## 📞 Get Started
-
-Ready to solve more problems? Pick any category above and start coding! Each solution includes:
-- Problem description
-- Approach explanation
-- Time & Space complexity
-- Complete Java implementation
+- **HackerRank**: [Visit](https://www.hackerrank.com) - Coding challenges
 
 ---
 
@@ -200,45 +159,7 @@ Ready to solve more problems? Pick any category above and start coding! Each sol
 
 ![Java Badge](https://img.shields.io/badge/100%25_Java-Solutions-orange?style=flat-square)
 ![License Badge](https://img.shields.io/badge/License-MIT-green?style=flat-square)
-![Updated Badge](https://img.shields.io/badge/Last%20Updated-2025-blue?style=flat-square)
+![Updated Badge](https://img.shields.io/badge/Last%20Updated-Jun%202026-blue?style=flat-square)
+![Problems Badge](https://img.shields.io/badge/Problems%20Solved-73+-brightgreen?style=flat-square)
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [1518-water-bottles](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/1518-water-bottles) |
-## Simulation
-|  |
-| ------- |
-| [1518-water-bottles](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/1518-water-bottles) |
-## Array
-|  |
-| ------- |
-| [0049-group-anagrams](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0049-group-anagrams) |
-| [0852-peak-index-in-a-mountain-array](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0852-peak-index-in-a-mountain-array) |
-| [0941-valid-mountain-array](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0941-valid-mountain-array) |
-## Binary Search
-|  |
-| ------- |
-| [0852-peak-index-in-a-mountain-array](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0852-peak-index-in-a-mountain-array) |
-## Hash Table
-|  |
-| ------- |
-| [0049-group-anagrams](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0049-group-anagrams) |
-## String
-|  |
-| ------- |
-| [0049-group-anagrams](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0049-group-anagrams) |
-| [0345-reverse-vowels-of-a-string](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0345-reverse-vowels-of-a-string) |
-## Sorting
-|  |
-| ------- |
-| [0049-group-anagrams](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0049-group-anagrams) |
-## Two Pointers
-|  |
-| ------- |
-| [0345-reverse-vowels-of-a-string](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0345-reverse-vowels-of-a-string) |
-<!---LeetCode Topics End-->
