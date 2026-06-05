@@ -1,0 +1,24 @@
+{
+  "name": "dsa-solutions",
+  "version": "1.0.0",
+  "description": "Dynamic DSA solutions tracker for LeetCode, GeeksforGeeks, and HackerRank",
+  "main": "updateReadme.js",
+  "scripts": {
+    "update-readme": "node updateReadme.js",
+    "precommit": "npm run update-readme"
+  },
+  "keywords": [
+    "dsa",
+    "data-structures",
+    "algorithms",
+    "leetcode",
+    "geeksforgeeks",
+    "hackerrank",
+    "java"
+  ],
+  "author": "Syed-Aadil-Sameer-M",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
