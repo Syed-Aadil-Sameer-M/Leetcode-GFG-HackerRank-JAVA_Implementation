@@ -232,8 +232,13 @@ Ready to solve more problems? Pick any category above and start coding! Each sol
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0049-group-anagrams) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0345-reverse-vowels-of-a-string) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0049-group-anagrams) |
+## Two Pointers
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
