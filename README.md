@@ -217,5 +217,10 @@ Ready to solve more problems? Pick any category above and start coding! Each sol
 ## Array
 |  |
 | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0941-valid-mountain-array](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0941-valid-mountain-array) |
+## Binary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
