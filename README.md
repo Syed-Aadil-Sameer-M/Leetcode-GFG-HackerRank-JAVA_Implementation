@@ -183,6 +183,7 @@ All problems are organized by algorithm/data structure:
 ## Array
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0735-asteroid-collision) |
 | [2574-left-and-right-sum-differences](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/2574-left-and-right-sum-differences) |
 ## Prefix Sum
 |  |
@@ -192,6 +193,7 @@ All problems are organized by algorithm/data structure:
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0225-implement-stack-using-queues) |
+| [0735-asteroid-collision](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
@@ -202,4 +204,8 @@ All problems are organized by algorithm/data structure:
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0225-implement-stack-using-queues) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
