@@ -183,6 +183,7 @@ All problems are organized by algorithm/data structure:
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0200-number-of-islands) |
 | [0735-asteroid-collision](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0735-asteroid-collision) |
 | [2574-left-and-right-sum-differences](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/2574-left-and-right-sum-differences) |
 ## Prefix Sum
@@ -208,4 +209,20 @@ All problems are organized by algorithm/data structure:
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0735-asteroid-collision) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
