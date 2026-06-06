@@ -178,4 +178,12 @@ All problems are organized by algorithm/data structure:
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0392-is-subsequence) |
+## Array
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/2574-left-and-right-sum-differences) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
