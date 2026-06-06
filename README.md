@@ -174,6 +174,7 @@ All problems are organized by algorithm/data structure:
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0392-is-subsequence) |
+| [1021-remove-outermost-parentheses](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/1021-remove-outermost-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -186,4 +187,8 @@ All problems are organized by algorithm/data structure:
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/2574-left-and-right-sum-differences) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
