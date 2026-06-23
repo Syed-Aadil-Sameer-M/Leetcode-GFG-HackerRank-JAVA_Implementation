@@ -174,6 +174,7 @@ All problems are organized by algorithm/data structure:
 ## String
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0392-is-subsequence](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0392-is-subsequence) |
 | [1021-remove-outermost-parentheses](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -235,4 +236,12 @@ All problems are organized by algorithm/data structure:
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0206-reverse-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
