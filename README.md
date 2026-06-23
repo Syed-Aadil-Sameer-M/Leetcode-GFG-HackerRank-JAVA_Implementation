@@ -225,4 +225,12 @@ All problems are organized by algorithm/data structure:
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0200-number-of-islands) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
