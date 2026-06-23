@@ -170,6 +170,7 @@ All problems are organized by algorithm/data structure:
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0392-is-subsequence) |
+| [0876-middle-of-the-linked-list](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -229,6 +230,7 @@ All problems are organized by algorithm/data structure:
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
