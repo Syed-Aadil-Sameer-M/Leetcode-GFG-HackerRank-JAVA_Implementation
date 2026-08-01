@@ -182,10 +182,12 @@ All problems are organized by algorithm/data structure:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0392-is-subsequence) |
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0200-number-of-islands) |
 | [0735-asteroid-collision](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/0735-asteroid-collision) |
 | [2574-left-and-right-sum-differences](https://github.com/Syed-Aadil-Sameer-M/Leetcode-JAVA_Implementation/tree/master/2574-left-and-right-sum-differences) |
