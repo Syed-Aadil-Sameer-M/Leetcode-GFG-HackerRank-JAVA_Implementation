@@ -1,16 +1,16 @@
 class Solution {
     public int maxProfit(int[] prices) {
-        int min = Integer.MAX_VALUE;
+        int n = prices.length;
+        int minbuy = prices[0];
         int profit = 0;
-
-        for (int i = 0; i < prices.length; i++) {
-            if (prices[i] < min) {
-                min = prices[i];
-            } else {
-                profit = Math.max(profit, prices[i] - min);
-            }
+        for (int i = 1; i<n; i++){
+            minbuy = Math.min(minbuy, prices[i]);
+            profit = Math.max(profit, prices[i]-minbuy);
         }
-
         return profit;
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
