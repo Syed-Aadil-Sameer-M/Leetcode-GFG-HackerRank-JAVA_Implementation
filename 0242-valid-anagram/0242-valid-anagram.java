@@ -1,20 +1,27 @@
+import java.util.*;
+
 class Solution {
     public boolean isAnagram(String s, String t) {
+
         if (s.length() != t.length()) {
             return false;
         }
 
-        int[] freq = new int[26];
+        Map<Character, Integer> map = new HashMap<>();
 
-        for (int i = 0; i < s.length(); i++) {
-            freq[s.charAt(i) - 'a']++;
-            freq[t.charAt(i) - 'a']--;
+        // Count characters in s
+        for (char ch : s.toCharArray()) {
+            map.put(ch, map.getOrDefault(ch, 0) + 1);
         }
 
-        for (int count : freq) {
-            if (count != 0) {
+        // Decrease frequencies using t
+        for (char ch : t.toCharArray()) {
+
+            if (!map.containsKey(ch) || map.get(ch) == 0) {
                 return false;
             }
+
+            map.put(ch, map.get(ch) - 1);
         }
 
         return true;
